@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a few projects just to get the hang of using GitHub for development purposes. These are detailed below: 👇 
+## Gakusei
+Link: [Gakusei](https://github.com/Mumbela/Gakusei)
+* The Gakusei repository contains a Rainmeter package (.rmskin). It is a simple skin to show a new English word and its meaning every 30 minutes from a list of almost 3000.
+* You need to have rainmeter installed to use it. See the Official [Rainmeter](https://www.rainmeter.net/) website on how to download and install it.
