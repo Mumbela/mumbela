@@ -3,7 +3,7 @@ Hi, I'm **Mumbela** - a developer exploring web technologies and building practi
 I enjoy working with modern frameworks, experimenting with component-driven design, and creating tools that empower users and businesses.
 
 ## Projects
-- **mumbela.github.io:** - A personal blog created using Jekyll and hosted with GitHub Pages.
+- **[mumbela.github.io](https://mumbela.github.io):** - A personal blog created using [Jekyll](https://jekyllrb.com) and hosted with GitHub Pages.
 
 - **Gakusei** - A simple [Rainmeter](https://www.rainmeter.net/) (.rmskin) package with a single skin.
 The [Gakusei repository](https://github.com/Mumbela/Gakusei) shows a new English word with meaning every 30 minutes from a list of almost 3000.
