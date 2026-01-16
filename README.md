@@ -16,7 +16,7 @@ The [Gakusei repository](https://github.com/Mumbela/Gakusei) shows a new English
 - **Interests:** Component libraries, style abstraction, preview-driven development, scalable architectures
 
 ## Contact
-- **GitHub:** [Mumbela](htttps://github.com/Mumbela)
+- **GitHub:** [Mumbela](https://github.com/Mumbela)
 - **LinkedIn:** [Mumbela](https://www.linkedin.com/in/Mumbela)
 - **Email:** s.mumbela@gmail.com
 
